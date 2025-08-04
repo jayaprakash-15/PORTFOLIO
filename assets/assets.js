@@ -219,7 +219,7 @@ export const projectData = [
       'A responsive and interactive portfolio showcasing skills, projects, and experience. Built with modern web technologies to highlight professionalism and creativity.',
     technologies: ['Next.js', 'React.js', 'Tailwind CSS', 'Framer Motion', 'Vercel Deployment'],
     imageUrl: assets.portfolio_2025_image,
-    githubLink: '',
-    liveLink: '',
+    githubLink: 'https://github.com/jayaprakash-15/PORTFOLIO',
+    liveLink: 'https://portfolio-seven-ashy-57.vercel.app/',
   },
 ];
