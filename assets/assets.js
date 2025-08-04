@@ -220,6 +220,6 @@ export const projectData = [
     technologies: ['Next.js', 'React.js', 'Tailwind CSS', 'Framer Motion', 'Vercel Deployment'],
     imageUrl: assets.portfolio_2025_image,
     githubLink: 'https://github.com/jayaprakash-15/PORTFOLIO',
-    liveLink: 'https://portfolio-seven-ashy-57.vercel.app/',
+    liveLink: 'https://portfolio-lime-beta-56.vercel.app/',
   },
 ];
