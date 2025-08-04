@@ -31,25 +31,25 @@ const About = ({ isDarkMode }) => {
 
                     <p className={`transition-all duration-500 ease-in-out font-Ovo ${showMore ? 'max-h-full' : 'max-h-0 overflow-hidden'}`}>
                         <br />
-                        👉 📚 <strong>Education:</strong><br />
+                        👉  <strong>Education:</strong><br />
                         • 10th – SSM Lakshmi Ammal MHSS (2019): 83%<br />
                         • 12th – SSM Lakshmi Ammal MHSS (2021): 83.25%<br />
                         • MSc Software Systems – Kongu Engineering College (2021–26): CGPA 7.31
                         <br /><br />
-                        👉 💼 <strong>Projects:</strong><br />
+                        👉  <strong>Projects:</strong><br />
                         • <strong>AI-Based Heart Disease Prediction</strong>: Hybrid CNN-GRU-Transformer using SHAP and Bayesian optimization (Python, TensorFlow, Optuna)<br />
                         • <strong>Men’s Clothing E-Commerce</strong>: MERN app with cart, auth, admin dashboard (MongoDB, Express, React, Node, Tailwind CSS, JWT, Firebase)<br />
                         • <strong>Doctor Appointment Booking System</strong>: Role-based secure appointment platform with auth and admin panel (MERN, JWT, React Router)<br />
                         • <strong>PHP-Based E-Commerce Website</strong>: Shopping cart + admin panel (HTML, CSS, JS, PHP, MySQL)
                         <br /><br />
-                        👉 🎯 <strong>Strengths:</strong><br />
+                        👉  <strong>Strengths:</strong><br />
                         Problem Solving, Collaboration, Adaptability, Critical Thinking, Communication
                         <br /><br />
-                        👉 🏆 <strong>Achievements:</strong><br />
+                        👉  <strong>Achievements:</strong><br />
                         • 2nd Place in National-Level Paper Presentation on Cloud Gaming (PSG College)<br />
                         • Participated in National-Level Coding Contest (PSG College)
                         <br /><br />
-                        👉 🌐 <strong>Links:</strong><br />
+                        👉  <strong>Links:</strong><br />
                         • GitHub: <a className='text-blue-600 underline' href='https://github.com/jayaprakash-15' target='_blank'>jayaprakash-15</a><br />
                         • LinkedIn: <a className='text-blue-600 underline' href='https://www.linkedin.com/in/jayaprakash-saravanan-448245259' target='_blank'>jayaprakash-saravanan</a><br />
                         • LeetCode: <a className='text-blue-600 underline' href='https://leetcode.com/u/2kPxMa7WzL/' target='_blank'>leetcode.com/u/2kPxMa7WzL</a>
